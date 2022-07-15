@@ -1,0 +1,23 @@
+h1{
+    font-size: 40px;
+    font-style: Courier;
+    color: black;
+
+}
+.center{
+    text-align: center;
+}
+
+.btn-group button{
+    background-color: azure;
+    display: block;
+    cursor: pointer;
+    color: black;
+    padding: 10px 24px;
+    margin: 10px;
+
+}
+.btn-group button:hover{
+    background-color: #245222;
+
+}
